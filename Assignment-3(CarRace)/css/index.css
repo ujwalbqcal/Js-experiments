@@ -1,0 +1,22 @@
+.start-Screen{
+  margin-left: 300px;
+  width:600px;
+  height:550px;
+  position: absolute;
+  background-color:Black;
+  color:darkcyan;
+  text-align: center;
+  font-size: 20px;
+}
+
+.container{
+  margin: 160px 200px;
+}
+button{
+  background-color: darkcyan;
+  border: 0px ;
+  padding:10px;
+  color: white;
+  border-radius: 5px;
+  margin-top: 15px;
+}
